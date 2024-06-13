@@ -13,3 +13,5 @@
 - Run the simulator 
 ​- Run the autonomous mode in simulator once the Drive.py shows this output '(8716) wsgi starting up on http://0.0.0.0:4567'
 - Watch the model run the car in simulator. Press escape to stop the run.
+
+![gif](https://github.com/saahilsabnis/Self-Driving/assets/50745306/f16de472-3bf6-42fe-b7b4-7860888240c3)
